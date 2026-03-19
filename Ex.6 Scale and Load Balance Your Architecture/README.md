@@ -3,7 +3,10 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : Pragatheeshraaj   Reg no : 212224230199   Date : 14.03.2026
+
+Author : Pragatheeshraaj D  
+Reg no : 212224230199   
+Date : 14.03.2026
 
 ---
 
